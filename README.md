@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz Jarzębski</h1>
 <h3 align="center">Computer science student from Warsaw</h3>
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **ASP.NET Core**
 - 📫 How to reach me **mateuszjarzebski81@gmail.com**
 - 🔭 I’m currently working on Web Restaurant App.
 - ⚡ Fun fact: Bats are the only mammal that can actually fly :D
