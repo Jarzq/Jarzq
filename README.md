@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core**
 - 📫 How to reach me **mateuszjarzebski81@gmail.com**
-- 🔭 I’m currently working on Web Restaurant App.
+- 🔭 I’m currently working on Trade simulator app.
 - ⚡ Fun fact: Bats are the only mammal that can actually fly :D
 
 <h3 align="left">Connect with me:</h3>
